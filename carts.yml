@@ -24,7 +24,7 @@ spec:
           value: "SERVICE_TYPE=BACKEND"
         resources:
           limits:
-            cpu: 500m
+            cpu: 600m
             memory: 1024Mi
           requests:
             cpu: 400m
